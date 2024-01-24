@@ -1,0 +1,49 @@
+body{
+    background-color: #E0E0E0;
+}
+
+.border{
+    width: 378px;
+    height: 489px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    background-color: #F5F5F5;
+    margin: auto;
+    margin-top: 131px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+input{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: 1px solid #F4B4B47A;
+    margin-right: 10px;
+}
+.email{
+    background-image: url(person.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.password{
+    background-image: url(eye.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+label{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+button{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #6756CB;
+    color: #FFFFFF;
+    border: none;
+    margin-bottom: 15px;
+    margin-left: 21px;
+}
