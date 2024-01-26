@@ -22,16 +22,17 @@ input{
     margin-left: 20px;
     border: 1px solid #F4B4B47A;
     margin-right: 10px;
+    
 }
 .email{
     background-image: url(person.png);
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position:  calc(100% - 20px) center;
 }
 .password{
     background-image: url(eye.png);
     background-repeat: no-repeat;
-    background-position: right center;
+    background-position:  calc(100% - 20px) center;
 }
 label{
     margin-left: 20px;
