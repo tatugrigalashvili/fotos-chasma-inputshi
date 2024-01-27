@@ -10,19 +10,22 @@ body{
     background-color: #F5F5F5;
     margin: auto;
     margin-top: 131px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 21px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-right: 20px;
+    
 }
 img{
-    margin-top: 20px;
-    margin-left: 10px;
+   width: 100%; 
 }
 input{
-    width: 315px;
+    width: 100%;
     height: 45px;
     border-radius: 10px;
-    margin-left: 20px;
     border: 1px solid #F4B4B47A;
-    margin-right: 10px;
-    
 }
 .email{
     background-image: url(person.png);
@@ -34,17 +37,12 @@ input{
     background-repeat: no-repeat;
     background-position:  calc(100% - 20px) center;
 }
-label{
-    margin-left: 20px;
-    margin-top: 20px;
-}
+
 button{
-    width: 315px;
+    width: 100%;
     height: 45px;
     border-radius: 10px;
     background-color: #6756CB;
     color: #FFFFFF;
     border: none;
-    margin-bottom: 15px;
-    margin-left: 21px;
 }
