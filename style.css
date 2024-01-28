@@ -46,3 +46,6 @@ button{
     color: #FFFFFF;
     border: none;
 }
+input::placeholder{
+    padding-left: 10px;
+}
